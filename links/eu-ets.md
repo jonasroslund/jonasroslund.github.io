@@ -3,7 +3,7 @@
 ## Verktyg
 * [EU ETS Reporting Tool](https://ets-reporting.ec.europa.eu/) - [Manual](https://ec.europa.eu/clima/sites-0/emission-trading-system-mrv-reporting_en)
 * [EU Login](https://ecas.ec.europa.eu/cas/login)
-* [E-tjänster för utsläppshandel | Naturvårdsverket](https://www.naturvardsverket.se/amnesomraden/utslappshandel/e-tjanster-for-utslappshandel/)
+* [E-tjänster för utsläppshandel \| Naturvårdsverket](https://www.naturvardsverket.se/amnesomraden/utslappshandel/e-tjanster-for-utslappshandel/)
 * [Utslappshandel.se](https://utslappshandel.se)
 
 ## Generellt
@@ -24,10 +24,10 @@
 * [Checklista inför inlämning av verksamhetsnivårapport samt vanliga frågor och svar](https://www.naturvardsverket.se/contentassets/bb087890886a4c55851bb9095f27ac42/checklista-och-faq-verksamhetsnivarapport.pdf)
 
 ## Priser
-* [EUA Futures | ICE](https://www.theice.com/products/197/EUA-Futures/data?marketId=6482028)
+* [EUA Futures \| ICE](https://www.theice.com/products/197/EUA-Futures/data?marketId=6482028)
 * [Futures Market](https://www.eex.com/en/market-data/environmental-markets/derivatives-market)
 
 ## Andra länder
 ### Danmark
-* [CO2-rapportering og -returnering | Energistyrelsen](https://ens.dk/ansvarsomraader/co2-kvoter/stationaere-produktionsenheder/co2-rapportering-og-returnering)
+* [CO2-rapportering og -returnering \| Energistyrelsen](https://ens.dk/ansvarsomraader/co2-kvoter/stationaere-produktionsenheder/co2-rapportering-og-returnering)
 
