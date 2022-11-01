@@ -1,7 +1,7 @@
 # EU ETS
 
 ## Verktyg
-* <a href="https://ets-reporting.ec.europa.eu/" target="_blank">EU ETS Reporting Tool</a> - [Manual](https://ec.europa.eu/clima/sites-0/emission-trading-system-mrv-reporting_en)
+* [EU ETS Reporting Tool](https://ets-reporting.ec.europa.eu/) - [Manual](https://ec.europa.eu/clima/sites-0/emission-trading-system-mrv-reporting_en)
 * [EU Login](https://ecas.ec.europa.eu/cas/login)
 * [E-tjänster för utsläppshandel \| Naturvårdsverket](https://www.naturvardsverket.se/amnesomraden/utslappshandel/e-tjanster-for-utslappshandel/)
 * [Utslappshandel.se](https://utslappshandel.se)
