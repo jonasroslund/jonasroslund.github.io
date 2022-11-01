@@ -32,10 +32,17 @@
 * [CO2-rapportering og -returnering \| Energistyrelsen](https://ens.dk/ansvarsomraader/co2-kvoter/stationaere-produktionsenheder/co2-rapportering-og-returnering)
 
 <script>
-window.onload = function(){
+
+function openLink(e) {
+  window.parent.location.href = e.target.href;
+  event.preventDefault();
+}
+
+window.onload = function() {
   var anchors = document.getElementsByTagName('a');
-  for (var i=0; i<anchors.length; i++){
-    anchors[i].setAttribute('target', '_blank');
+  for (var i = 0; i < anchors.length; i++) {
+    anchors[i].addEventListener("click", openLink, false);
   }
 }
+
 </script>
