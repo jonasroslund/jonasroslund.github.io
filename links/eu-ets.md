@@ -35,7 +35,8 @@
 
 function openLink(e) {
   alert(e.target.href);
-  window.parent.location.href = e.target.href;
+  window.parent.postMessage({},e.target.href)
+  //window.parent.location.href = e.target.href;
   event.preventDefault();
 }
 
